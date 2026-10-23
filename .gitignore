@@ -1,0 +1,21 @@
+# Datos originales
+
+data/*.csv
+
+# Python
+
+**pycache**/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Entornos virtuales
+
+.venv/
+venv/
+env/
+
+# Archivos temporales
+
+*.log
+.DS_Store
+Thumbs.db
